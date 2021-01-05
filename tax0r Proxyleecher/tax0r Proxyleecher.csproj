@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>tax0r_Proxyleecher</RootNamespace>
+    <ApplicationIcon>Sirubico-Black-Metal-Web-a.ico</ApplicationIcon>
+    <StartupObject>tax0r_Proxyleecher.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Classes\FileClass.cs~RF3af0eba.TMP" />
+    <None Remove="Classes\FileClass.cs~RF3c28a28.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Colorful.Console" Version="1.2.15" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
+</Project>
