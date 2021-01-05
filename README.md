@@ -14,26 +14,6 @@
 
 > Proxyleecher written in C# using Regex & webClient & ColourfulConsole
 
-### 🏠 [Homepage]( )
-
-## Install
-
-```sh
- 
-```
-
-## Usage
-
-```sh
- 
-```
-
-## Run tests
-
-```sh
- 
-```
-
 ## Author
 
 👤 **tax0r**
